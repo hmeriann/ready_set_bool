@@ -16,7 +16,7 @@
 
 ## Table of content
 ### [Exercise 00 - Adder](ex00/ex00.py)
-### Exercise 01 - Multiplier
+### [Exercise 01 - Multiplier](ex01/ex01.py)
 ### Exercise 02 - Gray code
 ### Exercise 03 - Boolean evaluation
 ### Exercise 04 - Truth table
