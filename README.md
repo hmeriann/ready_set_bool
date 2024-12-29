@@ -15,7 +15,7 @@
 - Both have to be calculated against the size of the function’s input (a number, the length of a string, etc...)
 
 ## Table of content
-### Exercise 00 - Adder
+### [Exercise 00 - Adder](ex00/ex00.py)
 ### Exercise 01 - Multiplier
 ### Exercise 02 - Gray code
 ### Exercise 03 - Boolean evaluation
